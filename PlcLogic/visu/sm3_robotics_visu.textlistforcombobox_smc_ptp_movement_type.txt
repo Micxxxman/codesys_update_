@@ -1,4 +1,0 @@
-Id;Default
-0;FAST
-1;PATH_INVARIANT
-;

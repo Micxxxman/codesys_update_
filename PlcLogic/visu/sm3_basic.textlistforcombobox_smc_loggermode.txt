@@ -1,4 +1,0 @@
-Id;Default
-0;LOG_CONTINUOUS
-1;LOG_AT_CLOSE
-;

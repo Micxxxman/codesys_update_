@@ -1,7 +1,0 @@
-Id;Default
-masterPos;Master position
-slavePos;Slave position
-slaveVel;Slave velocity
-slaveAcc;Slave acceleration
-slaveJrk;Slave jerk
-;

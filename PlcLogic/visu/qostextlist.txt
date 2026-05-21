@@ -1,5 +1,0 @@
-Id;Default
-0;QoS 0
-1;QoS 1
-2;QoS 2
-;

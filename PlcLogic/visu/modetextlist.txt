@@ -1,4 +1,0 @@
-Id;Default
-0;TCP/IP
-1;WebSocket
-;

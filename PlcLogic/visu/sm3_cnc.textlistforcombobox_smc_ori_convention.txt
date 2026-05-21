@@ -1,6 +1,0 @@
-Id;Default
-0;ADDAXES
-1;ZYZ
-2;ZYX
-3;XYZ
-;
